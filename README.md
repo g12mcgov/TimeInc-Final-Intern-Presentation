@@ -1,5 +1,7 @@
 # TimeInc-Final-Intern-Presentation
 
+![time_life_logo](http://i1158.photobucket.com/albums/p618/g12mcgov/713032.gif)
+
 My final presentation for the Time Life Alumni Society website.
 
 Overview
